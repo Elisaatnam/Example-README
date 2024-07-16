@@ -45,7 +45,7 @@ I'm incredibly proud of this project, which highlights my ability to create resp
 - [Third-Party Libraries & Tools](#third-party-libraries--tools)
 - [Contributors](#contributors) -->
 
-<!-- ODER zb so: -->
+<!-- ODER zb so (ausklappbar): -->
 <!-- <details>
   <summary>Table of Contents</summary>
   <ol>
