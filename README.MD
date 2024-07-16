@@ -81,8 +81,8 @@ The aim of this project was to practice the concepts learned in the first module
 
 <!-- hier bieten sich Screenshots des Projekts an, um auf verschiedenen Geräten, die Reaktionsfähigkeit und das Design des Projekts zu demonstrieren. -->
 <div style="display: flex; justify-content: space-between; width: 100%">
-    <img style="width: 40%; height: auto; object-fit: contain" src="./assets/img/iPad-Air-4-127.0.0.1.png">
-    <img style="width: 40%; height: auto; object-fit: contain"  src="./assets/img/iPhone-13-PRO-127.0.0.1.png">
+    <img style="width: 50%; height: auto; object-fit: contain" src="./assets/img/iPad-Air-4-127.0.0.1.png">
+    <img style="width: 50%; height: auto; object-fit: contain"  src="./assets/img/iPhone-13-PRO-127.0.0.1.png">
 </div>
 
 ## Tech Stack
