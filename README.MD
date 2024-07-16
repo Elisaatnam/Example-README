@@ -80,7 +80,7 @@ This project is a part of a Fullstack Bootcamp. It was developed over the course
 The aim of this project was to practice the concepts learned in the first module of the Bootcamp, specifically HTML and CSS. The result is a flexible and responsive website that could serve as a rental platform for vans. It features a navigation menu that adapts to screen size, transforming into a burger menu on smaller screens. Additionally, it includes detailed product cards and a generally adaptive layout.
 
 <!-- hier bieten sich Screenshots des Projekts an, um auf verschiedenen Geräten, die Reaktionsfähigkeit und das Design des Projekts zu demonstrieren. -->
-<div style="display: flex; gap: 20px">
+<div style="display: flex; justify-content: space-between">
     <img style="width: 40%; height: auto; object-fit: contain" src="./assets/img/iPad-Air-4-127.0.0.1.png">
     <img style="width: 40%; height: auto; object-fit: contain"  src="./assets/img/iPhone-13-PRO-127.0.0.1.png">
 </div>
