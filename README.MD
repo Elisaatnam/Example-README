@@ -149,6 +149,16 @@ Before you begin, ensure you have the following installed:
 
 The design for "Back to Nature" was provided as part of the Bootcamp and created using Figma. This design served as a blueprint to guide the development of the project, ensuring a cohesive and visually appealing user experience.
 
+<!-- fuer Fullstack Projekte geht es weiter mit: -->
+<!--
+## Usage
+## API Integration
+## Database
+## Authentication
+## Backend Routes
+## Third-Party Libraries & Tools]
+-->
+
 ## Deployment
 
 <!-- Ein Abschnitt, der beschreibt, wie das Projekt bereitgestellt wurde. Dies könnte die Plattformen und Dienste umfassen, die zur Bereitstellung des Projekts verwendet wurden. -->
